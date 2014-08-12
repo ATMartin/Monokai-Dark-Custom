@@ -1,4 +1,4 @@
-# dark-soda-syntax theme
+# monokai-dark-custom theme
 
 A personalized tweak to the "Seti Monokai" theme for Atom editor, inspired by the Brackets theme "Dark Soda".
 

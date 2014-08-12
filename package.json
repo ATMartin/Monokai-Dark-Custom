@@ -1,9 +1,13 @@
 {
-  "name": "dark-soda-syntax",
+  "name": "monokai-dark-custom",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/dark-soda-syntax",
+  "version": "0.0.1",
+	"private": true,
+  "description": "A customized interpretation of the Monokai theme, spun together with Dark Soda from Brackets",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/ATMartin/Monokai-Dark-Custom"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
